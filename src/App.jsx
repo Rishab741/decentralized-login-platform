@@ -1,5 +1,6 @@
 // frontend/src/App.jsx
 import { useState, useEffect } from 'react';
+
 import { ethers } from 'ethers';
 import Dashboard from './components/Dashboard'; // Import the Dashboard component
 
